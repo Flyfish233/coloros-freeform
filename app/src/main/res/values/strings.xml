@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorOS 无限小窗</string>
+    <string name="xposed_desc">解锁 ColorOS 多小窗并提高上限\n开发者：Flyfish233</string>
+</resources>
