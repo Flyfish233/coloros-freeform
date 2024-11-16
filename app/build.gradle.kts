@@ -10,11 +10,10 @@ android {
 
     defaultConfig {
         applicationId = "com.flyfish233.freeform"
-        minSdk = 35
+        minSdk = 34
         targetSdk = 35
-        versionName = "2"
-        versionCode = 2
-
+        versionName = "3"
+        versionCode = 3
     }
     buildTypes {
         release {
